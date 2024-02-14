@@ -22,6 +22,7 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-O2" />
+					<Add option="qmake -project &amp;&amp; qmake" />
 				</Compiler>
 				<Linker>
 					<Add option="-s" />
@@ -35,6 +36,8 @@
 			<Add library="C:/Qt/6.8.0/mingw_64/lib/libQt6Widgets.a" />
 			<Add library="C:/Qt/6.8.0/mingw_64/lib/libQt6Core.a" />
 		</Linker>
+		<Unit filename="empleado.cpp" />
+		<Unit filename="empleado.h" />
 		<Unit filename="main.cpp" />
 		<Extensions />
 	</Project>

@@ -1,5 +1,14 @@
 # depslib dependency file v1.0
-1707932874 source:c:\obremat\main.cpp
+1707936281 source:c:\obremat\main.cpp
 	<QtWidgets/QApplication>
 	<QtWidgets/QLabel>
+	<QtCore/QString>
+	"empleado.h"
+
+1707936004 source:c:\obremat\empleado.cpp
+	"empleado.h"
+
+1707935364 c:\obremat\empleado.h
+	<string>
+	<iostream>
 
