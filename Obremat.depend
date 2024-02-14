@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1707932874 source:c:\obremat\main.cpp
+	<QtWidgets/QApplication>
+	<QtWidgets/QLabel>
+
